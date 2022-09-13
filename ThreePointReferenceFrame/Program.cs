@@ -24,9 +24,9 @@ namespace ThreePointReferenceFrame
             PT point2 = new PT();
             PT point3 = new PT();
 
-            point1.X = 506.653;     //orjin point x
-            point1.Y = -11.331;     //orjin point y
-            point1.Z = 718.057;     //orjin point z
+            point1.X = 506.653;     //orgin point x
+            point1.Y = -11.331;     //orgin point y
+            point1.Z = 718.057;     //orgin point z
             point2.X = 653.403;     //x point x
             point2.Y = -11.323;     //x point y
             point2.Z = 686.758;     //x point z
